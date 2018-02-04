@@ -13,7 +13,7 @@ Human detector packages for Tshukuba Challenge indluding detector, sensor tuning
 ##### 2. Clone this repository.
 ```bash
 $ cd <catkin_ws>/src
-$ git clone https://github.com/CIR-KIT/human_detector.git
+$ git clone https://github.com/ssteveminq/human_detector.git
 ```
 ##### 3. Download required packages by wstool.
 ```bash
